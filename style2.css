@@ -1,0 +1,12 @@
+h1{
+    color:blue;
+}
+#go{
+    color:green;
+}
+.book h1{
+    color:red;
+}
+.book{
+    font-style: italic;
+}
